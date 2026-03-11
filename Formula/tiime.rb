@@ -1,8 +1,8 @@
 class Tiime < Formula
   desc "CLI & SDK for Tiime accounting - manage your French business accounting from the terminal"
   homepage "https://github.com/yabbal/tiime"
-  url "https://registry.npmjs.org/tiime-cli/-/tiime-cli-2.2.0.tgz"
-  sha256 "12d84deaee2b191a7da75af8ae35f708dce6c533e9d2921cd6f77414656ac698"
+  url "https://registry.npmjs.org/tiime-cli/-/tiime-cli-2.4.0.tgz"
+  sha256 "abc1e8b529a89a4649e0c2ec65ead89d5656220fb07c2f667552d9febadc0335"
   license "MIT"
 
   depends_on "node"
